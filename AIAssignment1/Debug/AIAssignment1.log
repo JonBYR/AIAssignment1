@@ -1,0 +1,4 @@
+﻿  AIAssignment1.cpp
+D:\C++\AIAssignment1\AIAssignment1.cpp(26,23): warning C4018: '<': signed/unsigned mismatch
+D:\C++\AIAssignment1\AIAssignment1.cpp(94,31): warning C4018: '<': signed/unsigned mismatch
+  AIAssignment1.vcxproj -> D:\C++\AIAssignment1\Debug\AIAssignment1.exe
